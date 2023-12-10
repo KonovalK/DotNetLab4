@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatLibrary", "ChatLibrary\ChatLibrary.csproj", "{19B930A9-54F4-473E-9101-83C077B59F65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{D4737907-B39D-465C-9718-A265B2D87D4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{485EE1D7-6274-4F94-A06B-A0289E8BC07F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19B930A9-54F4-473E-9101-83C077B59F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B930A9-54F4-473E-9101-83C077B59F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B930A9-54F4-473E-9101-83C077B59F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B930A9-54F4-473E-9101-83C077B59F65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4737907-B39D-465C-9718-A265B2D87D4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4737907-B39D-465C-9718-A265B2D87D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4737907-B39D-465C-9718-A265B2D87D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4737907-B39D-465C-9718-A265B2D87D4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{485EE1D7-6274-4F94-A06B-A0289E8BC07F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{485EE1D7-6274-4F94-A06B-A0289E8BC07F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{485EE1D7-6274-4F94-A06B-A0289E8BC07F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{485EE1D7-6274-4F94-A06B-A0289E8BC07F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2B211D8-22D4-40CA-9C3C-0F923DA4592A}
+	EndGlobalSection
+EndGlobal
